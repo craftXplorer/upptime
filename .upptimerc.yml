@@ -5,16 +5,17 @@ repo: upptime # The name of this repository
 user-agent: craftXplorer
 
 sites:
-  - name: Claire
-    method: POST
-    url: https://api.github.com/repos/craftXplorer/claire/actions/workflows/build.yml/dispatches
-    headers: 
-      - "Accept: application/vnd.github+json"
-      - "Authorization: Bearer ${{ secrets.GH_PAT }}"
-      - "User-Agent: craftXplorer"
-      - "X-GitHub-Api-Version: 2022-11-28"
-    body: '{ "ref": "main" }'
-
+  #- name: Claire
+  #  method: POST
+  #  url: https://api.github.com/repos/craftXplorer/claire/actions/workflows/build.yml/dispatches
+  #  headers: 
+  #    - "Accept: application/vnd.github+json"
+  #    - "Authorization: Bearer ${{ secrets.GH_PAT }}"
+  #    - "User-Agent: craftXplorer"
+  #    - "X-GitHub-Api-Version: 2022-11-28"
+  #  body: '{ "ref": "main" }'
+  - name: Google
+    url: https://www.google.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
