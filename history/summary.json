@@ -1,8 +1,8 @@
 [
   {
     "name": "Claire",
-    "url": "https://www.visionprojects.net",
-    "icon": "https://icons.duckduckgo.com/ip3/www.visionprojects.net.ico",
+    "url": "https://github.com/craftXplorer/claire/blob/711fbf43abf6c37488f00022fbc5e0bc850e2bc3/index.js",
+    "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "claire",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1127,
-    "timeDay": 1127,
-    "timeWeek": 1127,
-    "timeMonth": 1127,
-    "timeYear": 1127,
+    "time": 791,
+    "timeDay": 791,
+    "timeWeek": 791,
+    "timeMonth": 791,
+    "timeYear": 791,
     "dailyMinutesDown": {}
   }
 ]
