@@ -10,7 +10,7 @@ sites:
     url: https://api.github.com/repos/craftXplorer/claire/actions/workflows/build.yml/dispatches
     headers: 
       - "Accept: application/vnd.github+json"
-      - "Authorization: Bearer ${{ secrets.GH_PAT }}"
+      - "Authorization: Bearer ${{ secrets.CLAIRE_PAT }}"
       - "User-Agent: craftXplorer"
       - "X-GitHub-Api-Version: 2022-11-28"
     body: '{ "ref": "main" }'
