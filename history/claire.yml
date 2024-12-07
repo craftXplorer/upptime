@@ -1,7 +1,7 @@
-url: https://api.github.com/repos/craftXplorer/claire/actions/workflows/build.yml/dispatches
-status: down
-code: 401
-responseTime: 76
-lastUpdated: 2024-12-06T23:20:24.188Z
+url: https://claire.lennarthuett519.workers.dev
+status: up
+code: 200
+responseTime: 337
+lastUpdated: 2024-12-07T12:16:37.966Z
 startTime: 2024-12-06T21:37:53.180Z
 generator: Upptime <https://github.com/upptime/upptime>
