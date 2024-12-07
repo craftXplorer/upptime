@@ -1,20 +1,20 @@
 [
   {
     "name": "Claire",
-    "url": "https://api.github.com/repos/craftXplorer/claire/actions/workflows/build.yml/dispatches",
-    "icon": "https://icons.duckduckgo.com/ip3/api.github.com.ico",
+    "url": "https://claire.lennarthuett519.workers.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/claire.lennarthuett519.workers.dev.ico",
     "slug": "claire",
-    "status": "down",
-    "uptime": "45.67%",
-    "uptimeDay": "45.67%",
-    "uptimeWeek": "45.67%",
-    "uptimeMonth": "45.67%",
-    "uptimeYear": "45.67%",
-    "time": 319,
-    "timeDay": 319,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "status": "up",
+    "uptime": "84.12%",
+    "uptimeDay": "84.12%",
+    "uptimeWeek": "84.12%",
+    "uptimeMonth": "84.12%",
+    "uptimeYear": "84.12%",
+    "time": 321,
+    "timeDay": 321,
+    "timeWeek": 321,
+    "timeMonth": 321,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2024-12-06": 140
     }
