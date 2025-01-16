@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/claire.lennarthuett519.workers.dev.ico",
     "slug": "claire",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 332,
-    "timeDay": 232,
-    "timeWeek": 302,
-    "timeMonth": 324,
-    "timeYear": 332,
+    "uptimeYear": "99.76%",
+    "time": 331,
+    "timeDay": 254,
+    "timeWeek": 296,
+    "timeMonth": 326,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2024-12-06": 140
     }
